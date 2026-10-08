@@ -424,7 +424,7 @@
       ],
       "properties": {
         "virtualNetworkSubnetId": "[variables('subnetId')]",
-        "ignoreMissingVnetServiceEndpoint": false
+        "ignoreMissingVnetServiceEndpoint": true
       }
     },
     {
